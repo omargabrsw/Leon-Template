@@ -49,7 +49,7 @@ body {
   color: var(--text-color);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 764px) {
   .special-heading {
     font-size: 60px;
   }
@@ -428,7 +428,7 @@ footer span {
 }
 /* Footer end */
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .col:has(img) {
     display: none;
   }
